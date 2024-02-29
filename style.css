@@ -1,0 +1,45 @@
+@media only screen and (max-width: 1200px) {
+    .hai {
+        width: 79rem;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .hai {
+        width: 60rem;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .hai {
+        width: 57rem;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .hai {
+        width: 47rem;
+    }
+    
+}
+@media only screen and (max-width: 1200px) {
+    .navi {
+        width: 79rem;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .navi {
+        width: 60rem;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .navi {
+        width: 57rem;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .navi {
+        width: 47rem;
+    }
+}
+
+
